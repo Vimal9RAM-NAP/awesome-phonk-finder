@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Local build / test artifacts
+*.log
+tmp/

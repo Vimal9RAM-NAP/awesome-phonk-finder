@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Explicitly declare documentation as text
+*.md text eol=lf
+
+# Denote binary files
+*.png binary
+*.jpg binary
