@@ -607,6 +607,5 @@ Whether you're contributing one track or helping document an entire subgenre:
 ---
 
 <p align="center">
-**Awesome Phonk Finder**
-*Discover. Explore. Produce. Share.*
+Discover. Explore. Produce. Share.
 </p>

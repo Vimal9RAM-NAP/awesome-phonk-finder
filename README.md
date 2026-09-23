@@ -864,9 +864,5 @@ Let's build a better Phonk archive together. 🔊🎧
 ---
 
 <p align="center">
-
-**Awesome Phonk Finder**
-
-*Discover. Explore. Produce. Share.*
-
+Discover. Explore. Produce. Share.
 </p>
