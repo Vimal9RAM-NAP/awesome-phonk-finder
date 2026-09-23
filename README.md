@@ -1,11 +1,8 @@
 # Awesome Phonk Finder 🔊🎧
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 > **A curated directory for discovering Phonk.**
 
 A growing, community-driven collection of **Phonk music, subgenres, artists, notable releases, producer resources, open-source tools, playlists, communities, and discovery platforms**.
