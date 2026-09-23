@@ -1,10 +1,10 @@
 # Awesome Phonk Finder 🔊🎧
 
-[![Awesome]\([https://awesome.re/badge.svg)\](https://awesome.re](https://awesome.re/badge.svg\)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![License: MIT]\([https://img.shields.io/badge/License-MIT-yellow.svg)\](https://opensource.org/licenses/MIT](https://img.shields.io/badge/License-MIT-yellow.svg\)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![PRs Welcome]\([https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)\](CONTRIBUTING.md](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg\)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > **A curated directory for discovering Phonk.**
 
