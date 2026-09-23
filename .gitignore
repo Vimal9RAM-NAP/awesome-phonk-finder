@@ -1,6 +1,7 @@
 # OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Editor directories
 .vscode/
@@ -9,3 +10,9 @@ Thumbs.db
 # Local build / test artifacts
 *.log
 tmp/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~

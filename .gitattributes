@@ -1,9 +1,21 @@
-# Auto detect text files and perform LF normalization
+## Auto detect text files and normalize line endings
 * text=auto eol=lf
 
-# Explicitly declare documentation as text
+# Documentation
 *.md text eol=lf
 
-# Denote binary files
+# Binary images
 *.png binary
 *.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+
+# Audio files
+*.mp3 binary
+*.wav binary
+*.flac binary
+
+# Archives
+*.zip binary
+*.7z binary
