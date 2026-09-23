@@ -1,351 +1,318 @@
-# Contributing to Awesome Phonk Finder 🔊🎧
+# Contributing to Awesome Phonk Finder 🔊
 
-First off, thank you for considering contributing to **Awesome Phonk Finder**!
+Thanks for wanting to contribute to **Awesome Phonk Finder**.
 
-This project is intended to grow into a community-driven reference for **Phonk music, artists, releases, subgenres, production resources, tools, playlists, and communities**.
+This project is meant to be a place where people can discover Phonk from different eras and scenes — from the Memphis-influenced underground sounds to Drift Phonk, Wave, Brazilian Funk, Montagem, and newer internet styles.
 
-Whether you're adding an underground track, documenting a new subgenre, fixing a broken link, or finding a useful production tool, your contribution is welcome.
+You don't need to be a Phonk producer or expert to contribute.
 
-Please review these guidelines before opening a Pull Request.
-
----
-
-## 📚 How Can I Contribute?
-
-There are several ways to contribute:
-
-* 🎵 Add a notable Phonk track
-* 📅 Add a release to the Phonk Timeline
-* 🆕 Add a current/new release
-* 🎧 Add an artist or producer
-* 🎛️ Add a producer resource
-* 🛠️ Add an open-source audio project
-* 📺 Add a YouTube channel or playlist
-* 🌐 Add a community or discovery platform
-* 🏷️ Suggest a subgenre
-* 🔧 Fix incorrect information
-* 🔗 Fix broken or outdated links
-* ✍️ Improve documentation
+If you found a good track, artist, resource, tool, playlist, or piece of Phonk history that isn't here, feel free to add it.
 
 ---
 
-# 🎵 Adding Tracks
+## 📌 Before You Contribute
 
-When submitting a new track, please provide as much accurate information as possible.
+A few things help keep the repository useful:
 
-### Recommended Format
+* Check whether the information is already in the README.
+* Make sure artist and track names are spelled correctly.
+* Don't add tracks just because they're popular if they don't actually fit the section.
+* Use legitimate sources and links.
+* Don't add pirated software, cracked plugins, leaked sample packs, or suspicious download sites.
+* If you're adding recent music, make sure the release actually exists.
+* If you're unsure where something belongs, it's okay to open an issue and ask.
 
-```markdown
-- **Artist** — "Track Title"
-  - **Year:** 2026
-  - **Style:** Brazilian / Montagem
-  - **Notes:** Short description of the track
-  - **Listen:** [Spotify](URL) · [YouTube](URL)
-```
+The goal isn't to make the biggest list possible.
 
-### Track Requirements
-
-Please:
-
-* Verify the artist name.
-* Verify the track title.
-* Check the original release date.
-* Identify the subgenre/style when possible.
-* Avoid duplicate entries.
-* Provide a reliable source or listening link.
-* Prefer official artist or platform pages.
-
-### Avoid
-
-Do not submit:
-
-* Pirated downloads
-* Unauthorized reuploads
-* Malware or suspicious downloads
-* Copyright-infringing sample packs
-* Fake artist or track information
-* Duplicate entries
+It's to make a list people can actually use.
 
 ---
 
-# 📅 Adding Tracks to the Phonk Timeline
+# 🎧 What Can I Contribute?
 
-The timeline distinguishes between **original release year** and **discovery/popularity year**.
+There are several ways to help.
 
-This distinction is important because older Phonk tracks can become popular again years after their original release.
+### 🎵 Tracks
 
-### Original Release Year
+Add tracks that represent:
 
-Use the year in which the original track was officially released whenever it can be verified.
-
-### Discovery Year
-
-If an older track experienced a major resurgence later, it may be mentioned as a discovery/resurgence rather than being moved into the newer release year.
-
-### Current Scene
-
-Recent tracks can be added to the **Current Scene** section when they are actively appearing in current releases, playlists, or communities.
-
-### Example
-
-```markdown
-- **Artist** — "Track Title"
-  - **Original Release:** 2022
-  - **Discovery / Resurgence:** 2025
-  - **Style:** Drift Phonk
-```
-
-> **Do not use playlist appearance alone as proof of a track's original release year.**
-
----
-
-# 🆕 Adding Current Releases
-
-New releases are especially welcome.
-
-For current releases, try to include:
-
-```text
-Artist
-Track title
-Release year
-Subgenre
-Official listening link
-Short description
-```
+* A particular Phonk subgenre
+* A specific year
+* An important development in the scene
+* An underground artist worth discovering
+* A newer sound that is becoming noticeable
 
 Example:
 
 ```markdown
-| Track | Artist(s) | Year | Style |
-| :--- | :--- | :---: | :--- |
-| "Example Track" | Example Artist | 2026 | Montagem |
+- *Artist Name* — "Track Title" — 2026
 ```
 
-For tracks from the current year, contributors should verify that the release actually belongs to that year rather than simply appearing on a 2026 playlist.
+If the year isn't important for the section, the year can be left out.
 
 ---
 
-# 🏷️ Adding a New Subgenre
+### 👤 Artists
 
-New subgenres or clearly distinguishable styles should include:
+You can suggest artists who are particularly relevant to a section.
 
-* A short definition
-* Typical BPM range, when meaningful
-* Key musical characteristics
-* Origins/influences when known
-* At least 3 representative tracks
-* Several artists associated with the style
-
-### Recommended Format
+For example:
 
 ```markdown
-## 🆕 New Phonk Style
+### Artists to Explore
 
-**Typical Tempo:** 120–150 BPM
-
-**Key Elements:**
-
-- Characteristic 1
-- Characteristic 2
-- Characteristic 3
-
-### Notable Artists
-
-- Artist 1
-- Artist 2
-- Artist 3
-
-### Notable Tracks
-
-- *Artist 1* — "Track 1"
-- *Artist 2* — "Track 2"
-- *Artist 3* — "Track 3"
+- *Artist One*
+- *Artist Two*
+- *Artist Three*
 ```
 
-### Important
-
-Avoid creating a new subgenre for every small production variation.
-
-If a sound can reasonably fit an existing category, add it there instead.
+Try to explain why the artist belongs in that section if it isn't obvious.
 
 ---
 
-# 👤 Adding Artists & Producers
+### 🎧 Playlists / Channels
 
-When adding an artist, try to include:
+You can add:
 
-* Artist name
-* Primary style(s)
-* Notable releases
-* Official profile when available
-
-Example:
-
-```markdown
-### Artist Name
-
-**Styles:** Drift Phonk, Internet Phonk
-
-**Notable Tracks:**
-
-- "Track One"
-- "Track Two"
-
-**Links:**
-
-- Spotify
-- YouTube
-- SoundCloud
-- Bandcamp
-```
-
-Do not add information about an artist that cannot be reasonably verified.
-
----
-
-# 🎛️ Adding Producer Resources
-
-Resources may include:
-
-* Sample packs
-* Drum kits
-* 808 packs
-* Cowbell kits
-* Vocal resources
-* MIDI packs
-* Synth presets
-* VST plugins
-* DAWs
-* Tutorials
-* Production guides
-* Tape/lo-fi effects
-* Audio-processing tools
-
-### Resource Requirements
-
-Links should preferably point to:
-
-* Official developer websites
-* Official artist/producer pages
-* GitHub repositories
-* Legitimate sample stores
-* Public-domain resources
-* Clearly licensed free resources
-
-### Do Not Submit
-
-* Pirated software
-* Cracked VSTs
-* Leaked sample packs
-* Copyright-infringing downloads
-* Suspicious download mirrors
-* Malware
-* Password-protected archives with unknown origins
-
-Always respect the original creator's licensing terms.
-
----
-
-# 🛠️ Adding Open-Source Projects
-
-Open-source contributions should preferably include:
-
-* Project name
-* GitHub/GitLab/source repository
-* Short description
-* Relevant use case
-* License information when available
-
-Example:
-
-```markdown
-- [Project Name](https://github.com/example/project)
-  — Short description of what the project does and why it is useful for Phonk producers.
-```
-
-Avoid adding repositories that are:
-
-* Malware
-* Pirated software
-* Copyright-infringing tools
-* Abandoned projects with serious security concerns
-* Unrelated to audio, music, Phonk, or the project's purpose
-
----
-
-# 📺 Adding Playlists & Discovery Sources
-
-You can contribute:
-
-* Spotify playlists
-* YouTube playlists
-* SoundCloud collections
-* Bandcamp pages
 * YouTube channels
-* Radio streams
+* SoundCloud pages
+* Spotify playlists
+* Bandcamp pages
 * Producer channels
-* Community-curated collections
+* Underground collectives
 
-Prefer sources that are:
-
-* Active
-* Relevant to Phonk
-* Legitimate
-* Publicly accessible
-
-When possible, mention what the source focuses on.
-
-Example:
-
-```markdown
-- **Channel Name** — Underground OG Phonk and Memphis-inspired releases.
-```
+Please make sure the link actually works and points to the intended page.
 
 ---
 
-# 🔗 Links & Sources
+### 🛠️ Producer Tools
 
-Please check every link before submitting a Pull Request.
+Useful submissions include:
+
+* Free VST plugins
+* Open-source audio tools
+* DAWs and audio utilities
+* BPM detection tools
+* Audio visualizers
+* MIDI tools
+* Sample-management tools
+* Music discovery tools
+
+Whenever possible, link directly to the **official project or repository**.
+
+---
+
+### 📦 Sample Packs
+
+Sample packs can be added if they are:
+
+* Free
+* Legitimately distributed
+* Clearly licensed
+* From the original creator or an authorized source
+
+Don't submit leaked commercial sample packs or copyrighted sample collections that are being redistributed without permission.
+
+---
+
+# 📅 Adding to the Phonk Timeline
+
+The timeline is one of the main parts of the project.
+
+If you're adding something to a year such as **2020–2026**, don't just add a list of songs.
+
+Try to explain what was happening during that period.
+
+For example:
+
+```markdown
+## 2026 — Current Scene
+
+**Era:** Montagem / Brazilian Funk / Internet Phonk
+
+**Typical Tempo:** ~120–180 BPM
+
+The current scene continues to mix Brazilian Funk, Montagem,
+Drift Phonk and electronic production.
+
+### Artists to Explore
+
+- *Artist*
+- *Artist*
+- *Artist*
+
+### Tracks
+
+- *Artist* — "Track"
+- *Artist* — "Track"
+```
+
+### Good timeline contributions answer questions like:
+
+* What changed that year?
+* Which sound became more noticeable?
+* Which artists were active?
+* Which tracks represent that period?
+* Did different scenes start crossing over?
+* Was a new production style becoming common?
+
+---
+
+# ⚠️ Current Years
+
+For years that are still ongoing, don't write predictions as if they already happened.
+
+For example, **2026 is still ongoing**, so entries should describe what can actually be observed so far.
 
 Prefer:
 
-1. Official artist websites
-2. Official streaming profiles
-3. Official YouTube channels
-4. Official SoundCloud/Bandcamp pages
-5. Verified GitHub repositories
-6. Established music platforms
+```text
+2026 has seen continued growth of...
+```
 
-Avoid URL shorteners when the original destination can be linked directly.
+instead of:
 
-If a link becomes unavailable, please submit a fix.
+```text
+2026 will be the year when...
+```
 
----
-
-# 🧹 Fixing Existing Information
-
-You do not need to add something new to contribute.
-
-You can also fix:
-
-* Incorrect release years
-* Incorrect artist names
-* Incorrect track titles
-* Incorrect subgenre classifications
-* Broken links
-* Duplicate entries
-* Formatting problems
-* Spelling mistakes
-* Outdated resources
-
-For factual corrections, please include a source when possible.
+The timeline should document the scene, not predict it.
 
 ---
 
-# 📐 Formatting Guidelines
+# 🎧 Adding a New Subgenre
 
-Please follow the existing Markdown style.
+New subgenres should have enough musical identity to justify their own section.
+
+A useful entry normally includes:
+
+* Name
+* Approximate BPM
+* Musical characteristics
+* Short explanation
+* At least 3 representative tracks
+* Artists worth exploring
+
+Example:
+
+```markdown
+## 🌊 Example Phonk
+
+**Tempo:** 110–140 BPM
+
+**Key Musical Elements:**
+
+- Atmospheric synths
+- Heavy bass
+- Reverb
+- Chopped vocals
+- Electronic drums
+
+### Recommended Tracks
+
+- *Artist* — "Track One"
+- *Artist* — "Track Two"
+- *Artist* — "Track Three"
+```
+
+### Don't create a new subgenre just because:
+
+* A playlist uses a different name.
+* One producer describes their music differently.
+* A single song sounds slightly different.
+* A social-media trend gives an existing style a new name.
+
+If something fits an existing category, add it there instead.
+
+---
+
+# 🔎 Genre Labels Can Be Messy
+
+Phonk has a lot of overlapping labels.
+
+A track might be described as:
+
+```text
+Phonk
+Drift Phonk
+Brazilian Phonk
+Brazilian Funk
+Montagem
+Funk Mandelão
+Wave Phonk
+Aggressive Phonk
+```
+
+These labels aren't always used consistently.
+
+Don't try to force every track into one perfect category.
+
+If there is genuine uncertainty, describe the crossover instead.
+
+For example:
+
+```markdown
+This track combines Brazilian Funk rhythms with
+the distorted bass and vocal processing commonly
+associated with modern Phonk.
+```
+
+That's usually more useful than arguing over one label.
+
+---
+
+# 🔗 Links and Sources
+
+Please use reliable links.
+
+### Prefer
+
+* Official artist pages
+* Official labels
+* Spotify
+* YouTube
+* SoundCloud
+* Bandcamp
+* GitHub
+* Official plugin websites
+* Official documentation
+
+### Avoid
+
+* Pirated download sites
+* Cracked software
+* File-sharing mirrors for copyrighted material
+* Suspicious download pages
+* Re-uploaded commercial sample packs
+* Links that require questionable installers
+
+If you're adding a software tool, linking to its official website or GitHub repository is preferred.
+
+---
+
+# 🛠️ GitHub Contributions
+
+If you're adding a GitHub project, use a format similar to:
+
+```markdown
+- [Project Name](https://github.com/example/project) — Short description of what it does.
+```
+
+The description should explain why it is useful to someone interested in Phonk.
+
+For example:
+
+```markdown
+- [Audio Processing](https://github.com/topics/audio-processing) — GitHub projects for audio analysis, processing, and music-related tools.
+```
+
+Don't describe a repository as a dedicated Phonk tool unless it actually is one.
+
+---
+
+# ✍️ Formatting
+
+Please try to keep the existing README style.
 
 ### Artists
 
@@ -363,38 +330,143 @@ Use:
 *Artist Name* — "Track Title"
 ```
 
-### Tables
+### Sections
 
-Use:
+Use the existing heading structure:
 
 ```markdown
-| Track | Artist(s) | Year | Style |
-| :--- | :--- | :---: | :--- |
-| "Track" | Artist | 2026 | Montagem |
+## 🎧 Section
+
+### Subsection
 ```
 
-### Headings
+### Tables
 
-Use the existing heading hierarchy.
+Keep tables simple and readable:
 
-Avoid unnecessarily changing formatting across unrelated sections.
+```markdown
+| Year | Development | Style |
+|---|---|---|
+| 2024 | Example | Wave / Internet |
+```
 
 ---
 
-# 🌿 Pull Request Guidelines
+# 🌱 Adding Newer Music
+
+New music is welcome.
+
+In fact, keeping the project updated is one of the main reasons this repository exists.
+
+When adding newer tracks, consider:
+
+### 1. Is the track actually released?
+
+Don't add leaks, snippets, unreleased TikTok previews, or fan-made names as official releases.
+
+### 2. Does it represent something?
+
+A track doesn't have to be famous.
+
+It can be included because it represents:
+
+* A new sound
+* An underground scene
+* A regional style
+* A production technique
+* A developing trend
+
+### 3. Is it already listed?
+
+Search the README before adding it.
+
+### 4. Can someone find it?
+
+Include a legitimate platform or artist link when appropriate.
+
+---
+
+# 🔥 Adding 2025–2026 Tracks
+
+Because newer Phonk changes quickly, these sections will probably receive more updates than the older timeline.
+
+For current releases, useful categories include:
+
+* Montagem
+* Brazilian Funk / Phonk
+* Drift
+* Wave
+* Aggressive Phonk
+* Internet Phonk
+* Edit-focused releases
+* Experimental hybrids
+
+Don't assume every viral TikTok sound is automatically Phonk.
+
+The README should remain useful even after a trend disappears.
+
+---
+
+# 🐛 Fixing Mistakes
+
+You don't have to add something new to contribute.
+
+You can also fix:
+
+* Incorrect artist names
+* Incorrect track names
+* Wrong release years
+* Broken links
+* Formatting problems
+* Duplicate entries
+* Incorrect genre descriptions
+* Outdated resources
+
+Small corrections are completely welcome.
+
+---
+
+# 🐞 Reporting an Issue
+
+If you're not sure how something should be changed, open an issue.
+
+Useful issue examples:
+
+```text
+Incorrect release year for a track
+```
+
+```text
+Broken link in Producer Resources
+```
+
+```text
+Possible new 2026 Phonk subgenre
+```
+
+```text
+Track missing from the 2024 timeline
+```
+
+Include as much useful information as possible.
+
+---
+
+# 🔀 Pull Request Guide
 
 ## 1. Fork the Repository
 
 Fork:
 
 ```text
-Vimal9RAM-NAP/awesome-phonk-finder
+https://github.com/Vimal9RAM-NAP/awesome-phonk-finder
 ```
 
 Then clone your fork:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/awesome-phonk-finder.git
+git clone https://github.com/YOUR-USERNAME/awesome-phonk-finder.git
+cd awesome-phonk-finder
 ```
 
 ---
@@ -406,72 +478,89 @@ Use a descriptive branch name.
 Examples:
 
 ```bash
-git checkout -b feat/add-2026-releases
+git checkout -b feat/add-2026-tracks
 ```
 
 ```bash
-git checkout -b feat/add-montagem-subgenre
+git checkout -b feat/add-montagem-artists
+```
+
+```bash
+git checkout -b docs/update-phonk-timeline
 ```
 
 ```bash
 git checkout -b fix/broken-links
 ```
 
-```bash
-git checkout -b docs/update-contributing
+Some useful prefixes:
+
+```text
+feat/
+fix/
+docs/
+refactor/
 ```
 
 ---
 
 ## 3. Make Your Changes
 
-Keep your changes focused.
+Edit the relevant file.
 
-Good examples:
+For most contributions, this will be:
 
-* Add several verified 2026 releases
-* Add one new subgenre
-* Fix incorrect release dates
-* Add a producer resource
-* Fix broken links
+```text
+README.md
+```
 
-Avoid combining unrelated changes in the same Pull Request.
+For contribution/documentation changes:
+
+```text
+CONTRIBUTING.md
+```
 
 ---
 
-## 4. Check for Duplicates
+## 4. Check Your Formatting
 
-Before submitting:
+Before committing, look through your changes and make sure:
 
-* Search the README.
-* Search the repository.
-* Check whether the artist already exists.
-* Check whether the track already exists.
-* Check whether the resource is already listed.
+* Markdown renders correctly
+* Links work
+* Tables aren't broken
+* Headings are consistent
+* No duplicate tracks were added
+* Artist names are correct
+* No accidental personal files were committed
 
 ---
 
 ## 5. Commit Your Changes
 
-Use a clear commit message.
-
-Examples:
+Example:
 
 ```bash
-git add .
-git commit -m "feat: add 2026 Phonk releases"
+git add README.md
+git commit -m "feat: add 2026 Montagem tracks"
 ```
 
-```bash
-git commit -m "feat: add Montagem resources"
+Other examples:
+
+```text
+feat: add new Wave Phonk artists
 ```
 
-```bash
-git commit -m "fix: correct release years"
+```text
+docs: update 2025 timeline
 ```
 
-```bash
-git commit -m "docs: improve contribution guidelines"
+```text
+fix: correct broken resource links
+```
+
+```text
+docs: add producer resources
 ```
 
 ---
@@ -479,133 +568,122 @@ git commit -m "docs: improve contribution guidelines"
 ## 6. Push Your Branch
 
 ```bash
-git push origin feat/add-2026-releases
+git push origin feat/add-2026-tracks
 ```
 
 ---
 
 ## 7. Open a Pull Request
 
-When opening your PR, briefly explain:
+Open a Pull Request from your branch to the main repository.
 
-* What you added or changed
-* Why it belongs in the project
-* Any sources used
-* Any release-date information that required verification
-
----
-
-# 📝 Pull Request Checklist
-
-Before submitting your PR:
+In the PR description, briefly explain:
 
 ```text
-[ ] I searched for duplicate entries.
-[ ] Artist and track names are correct.
-[ ] Release year has been checked.
-[ ] Subgenre/style is appropriate.
-[ ] Links work.
-[ ] Sources are legitimate.
-[ ] No pirated or unsafe content was added.
-[ ] Markdown formatting follows the repository style.
-[ ] My PR focuses on a specific change.
-[ ] I have checked the final README for formatting issues.
+What did you add?
+
+Why does it belong in the repository?
+
+What sources or links did you use?
 ```
-
----
-
-# 🔍 Research & Accuracy
-
-Awesome Phonk Finder is intended to become a useful reference, so accuracy matters.
-
-When researching a track, consider checking multiple sources where appropriate.
-
-Useful sources may include:
-
-* Official artist pages
-* Spotify
-* YouTube
-* SoundCloud
-* Bandcamp
-* Discogs
-* Music databases
-* Official label pages
-
-For release dates, prioritize information from the artist, label, or official release platform when available.
-
----
-
-# ⚠️ Release Date vs. Playlist Date
-
-A track appearing on a playlist in **2026** does not automatically make it a **2026 release**.
 
 For example:
 
 ```text
-Original Release
-      ↓
-Track becomes popular
-      ↓
-Appears in new playlists
-      ↓
-Experiences resurgence
+Added several 2026 Montagem releases to the current-scene
+section and updated the 2025–2026 comparison table.
+
+Tracks were checked against current streaming listings.
 ```
 
-The repository should preserve the original release information whenever it can be verified.
+---
 
-This helps keep the Phonk Timeline historically useful.
+# 📋 Pull Request Checklist
+
+Before submitting your PR:
+
+* [ ] I checked for duplicate entries.
+* [ ] Artist names are correct.
+* [ ] Track names are correct.
+* [ ] Release years are correct.
+* [ ] Links work.
+* [ ] The tracks actually fit the section.
+* [ ] The information is based on something verifiable.
+* [ ] I didn't add pirated or unauthorized material.
+* [ ] Markdown formatting is correct.
+* [ ] I kept the change reasonably focused.
 
 ---
 
-# 🌐 Community Standards
+# 🎯 Keep the Repository Useful
 
-Please keep contributions respectful and constructive.
+The purpose of this project isn't to decide what the "best" Phonk is.
 
-Do not use the repository to:
+Different people are going to prefer completely different parts of the scene.
 
-* Harass artists
-* Attack producers
-* Promote piracy
-* Spread malicious software
-* Spam unrelated links
-* Manipulate streaming statistics
-* Misrepresent release information
-* Artificially promote tracks through misleading claims
+Someone might come here looking for:
 
-The goal is to **document and discover Phonk**, not to create rankings or arguments about which artist or track is "the best."
+```text
+DJ Smokey
+      ↓
+Memphis Revival
+      ↓
+Rare Phonk
+```
 
----
+Someone else might arrive through:
 
-# 🚀 Growing the Project
+```text
+DVRST
+      ↓
+Drift Phonk
+      ↓
+Modern Internet Phonk
+```
 
-Awesome Phonk Finder is intended to evolve over time.
+And someone else might discover:
 
-Future contributions may expand the project into:
+```text
+Brazilian Funk
+      ↓
+Montagem
+      ↓
+Current Phonk / Internet hybrids
+```
 
-* 📅 A complete Phonk timeline
-* 🎵 A larger release database
-* 👤 Artist directories
-* 🏷️ Subgenre guides
-* 🎛️ Producer resources
-* 🛠️ Open-source audio tools
-* 📺 Discovery channels
-* 🌐 Community directories
-* 🔎 Searchable music resources
+All of those paths are useful.
 
-If you have an idea that could make the project more useful to the Phonk community, feel free to open an Issue and discuss it.
-
----
-
-# ❤️ Thank You
-
-Every contribution helps make **Awesome Phonk Finder** a better resource for listeners, producers, creators, and the wider Phonk community.
-
-Whether you're contributing one track or helping document an entire subgenre:
-
-**Thank you for helping build the archive.** 🔊🎧
+The goal is to document the different sides of the scene and make them easier to explore.
 
 ---
 
-<p align="center">
-Discover. Explore. Produce. Share.
-</p>
+# 🚀 Future Contributions
+
+Some things we'd like to eventually add:
+
+* [ ] Larger artist directory
+* [ ] More 2020–2026 tracks
+* [ ] Monthly new-release section
+* [ ] Producer directory
+* [ ] Free sample-pack directory
+* [ ] Plugin directory
+* [ ] DAW-specific production guides
+* [ ] BPM database
+* [ ] Phonk history references
+* [ ] Brazilian Funk / Montagem history
+* [ ] Regional scene directory
+* [ ] Community playlist directory
+* [ ] Better underground artist discovery
+* [ ] More open-source music tools
+
+If you have an idea that would make the project more useful, feel free to open an issue or PR.
+
+---
+
+# ❤️ Thanks
+
+Whether you contribute one track, fix one spelling mistake, add a useful GitHub project, or completely expand a section, it's appreciated.
+
+**Keep digging through the Phonk rabbit hole. 🔊🎧**
+
+---
